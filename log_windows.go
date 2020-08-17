@@ -1,4 +1,4 @@
-// +build windows, plan9
+// +build windows plan9
 
 //Package gologging provides a logger implementation based on the github.com/op/go-logging pkg
 package gologging
